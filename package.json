@@ -1,6 +1,6 @@
 {
   "homepage": "https://pro7prabhakar.github.io/tic-tac-toe",
-  "name": "Tic-Tac-Toe",
+  "name": "tic-tac-toe",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
